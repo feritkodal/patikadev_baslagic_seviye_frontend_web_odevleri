@@ -1,0 +1,50 @@
+.logo {
+    text-align: center;
+    color: red;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10cm;
+}
+
+.menu {
+    display: inline-block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5em;
+}
+
+.allmenu {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+}
+
+.header2 {
+    position: relative;
+}
+
+.list {
+    list-style-position: inside;
+}
+
+.color1 {
+    color: rgb(237, 205, 22);
+}
+
+.color2 {
+    color: purple;
+}
+
+.middle {
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+nav {
+    margin-left: 15px
+}
